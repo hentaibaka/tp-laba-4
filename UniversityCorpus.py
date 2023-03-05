@@ -2,7 +2,7 @@ from collections.abc import Callable
 from StudentGenerator import *
 from StudentHandler import *
 from enum import Enum, auto
-from time import sleep 
+from time import sleep
 from termcolor import COLORS
 from os import system
 import pandas as pd
